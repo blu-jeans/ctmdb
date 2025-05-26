@@ -11,3 +11,8 @@ Your local tmdb cache for better emby scan.
 不断更新电影与电视剧元数据，打造属于国人的中文化ctmdb。
 欢迎推送精整理的各类元数据，符合当前覆盖缓存json规范。
 
+相关群讨论：
+https://t.me/+1mVYiG_gidFmNTM1
+
+
+
